@@ -1,3 +1,4 @@
 This is new change
 make changes
 updated for fast forward
+updated merge commit check for test branch
