@@ -1,2 +1,3 @@
 This is ethical file
 working to updated fast forward
+updated in smart git for merge commit
